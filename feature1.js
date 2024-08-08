@@ -1,1 +1,1 @@
-console.log('chenged')
+console.log('changed')
